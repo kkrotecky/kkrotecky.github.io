@@ -7,7 +7,11 @@ Ok the project will be rebuild from what is it on it now!
 It will take some time.
 <br>
 But what I have in mind:
-> more black rectangles
-> added weather
-> added random background on every opening
-> more customized pages
+<br>
+- more black rectangles
+<br>
+- added weather
+<br>
+- added random background on every opening
+<br>
+- more customized pages
