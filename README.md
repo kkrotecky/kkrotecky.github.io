@@ -10,3 +10,7 @@ It will take some time.
 - added weather
 - added random background on every opening
 - more customized pages
+
+So far my work is based on https://github.com/m-hrstv/startpage/tree/master
+<br>
+And this one is personalised for my needs!
