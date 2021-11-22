@@ -1,7 +1,9 @@
-### This is a markdown file of a project.
+### This is a markdown file explaining the project.
 Here I want to store something about the **release!**
 <br>
 Ok the project will be rebuild from what is it on it now!
+<br>
+It only serves me as a personal start page and will be often edited in the future!
 <br>
 It will take some time.
 <br>
